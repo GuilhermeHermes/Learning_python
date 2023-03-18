@@ -28,6 +28,7 @@ def computer_guess(x):
                 high = guess - 1
     print(f"I guess you number {guess} correctly ! :p")
 
+guess(10)
 computer_guess(10)
 
 
