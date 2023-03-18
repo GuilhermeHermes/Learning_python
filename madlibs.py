@@ -28,3 +28,4 @@ In the end, Romeo chose Juliet. He knew he can’t be {adj3} \
 being wealthy without Juliet."
     print(madlib)
 
+madlibs()
